@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "895949710697",
+        "project_id": "mymedi-54718",
+        "storage_bucket": "mymedi-54718.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:895949710697:android:c3dd7cf656989f636949f8",
+                "android_client_info": {
+                    "package_name": "com.mymedi"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAjUxwFH64VEAue5Z9QPIdKDG00V-KpKBI"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
